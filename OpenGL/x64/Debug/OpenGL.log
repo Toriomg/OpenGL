@@ -1,12 +1,4 @@
-﻿  IndexBuffer.cpp
-  main.cpp
-  Renderer.cpp
-  Shader.cpp
-  Texture.cpp
-  VertexArray.cpp
-C:\Users\Hector\source\repos\OpenGL\OpenGL\src\buffers\VertexArray.cpp(21,97): warning C4312: 'conversión de tipo': conversión de 'unsigned int' a 'const void *' de mayor tamaño
-  VertexBuffer.cpp
-  Generando código...
+﻿  main.cpp
   OpenGL.vcxproj -> C:\Users\Hector\source\repos\OpenGL\x64\Debug\OpenGL.exe
   "pwsh.exe" no se reconoce como un comando interno o externo,
   programa o archivo por lotes ejecutable.
