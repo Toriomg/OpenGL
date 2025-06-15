@@ -1,8 +1,8 @@
-C:\Users\Hector\source\repos\OpenGL\OpenGL\src\IndexBuffer.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\IndexBuffer.obj
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\buffers\IndexBuffer.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\IndexBuffer.obj
 C:\Users\Hector\source\repos\OpenGL\OpenGL\src\main.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\main.obj
 C:\Users\Hector\source\repos\OpenGL\OpenGL\src\Renderer.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\Renderer.obj
 C:\Users\Hector\source\repos\OpenGL\OpenGL\src\Shader.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\Shader.obj
 C:\Users\Hector\source\repos\OpenGL\OpenGL\src\Texture.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\Texture.obj
 C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\stb_image\stb_image.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\stb_image.obj
-C:\Users\Hector\source\repos\OpenGL\OpenGL\src\VertexArray.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\VertexArray.obj
-C:\Users\Hector\source\repos\OpenGL\OpenGL\src\VertexBuffer.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\VertexBuffer.obj
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\buffers\VertexArray.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\VertexArray.obj
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\buffers\VertexBuffer.cpp;C:\Users\Hector\source\repos\OpenGL\OpenGL\x64\Debug\VertexBuffer.obj
