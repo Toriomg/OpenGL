@@ -1,10 +1,229 @@
-﻿  imgui_tables.cpp
-  imgui_widgets.cpp
+﻿  main.cpp
+  imgui_impl_glfw_gl3.cpp
   Generando código...
-x64\Debug\glm.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
-glew32s.lib(glew.obj) : warning LNK4099: no se encontró PDB 'vc120.pdb' con 'glew32s.lib(glew.obj)' o en 'C:\Users\Hector\source\repos\OpenGL\x64\Debug\vc120.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
-LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-LINK : warning LNK4098: la biblioteca predeterminada'LIBCMT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-  OpenGL.vcxproj -> C:\Users\Hector\source\repos\OpenGL\x64\Debug\OpenGL.exe
-  "pwsh.exe" no se reconoce como un comando interno o externo,
-  programa o archivo por lotes ejecutable.
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(215,12): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(217,12): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(220,21): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(220,59): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(221,22): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(221,58): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(222,20): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(222,54): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(223,22): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(223,58): error C2039: "KeysDown": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(252,41): error C2440: '=': no se puede realizar la conversión de 'void *' a 'ImTextureID'
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(252,41):
+      No existe un contexto en el que sea posible realizar esta conversión
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(375,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(376,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(377,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(378,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(379,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(380,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(381,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(382,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(383,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(384,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(385,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(386,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(387,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(388,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(389,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(390,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(391,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(392,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(393,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(394,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(395,8): error C2039: "KeyMap": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(401,8): error C2039: "ImeWindowHandle": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(495,15): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(495,39): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(495,5): error C2660: 'memset': la función no acepta 2 argumentos
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(63,15):
+      vea la declaración de 'memset'
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(495,5):
+      al hacer coincidir la lista de argumentos '()'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(504,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(504,9): error C2065: 'ImGuiNavInput_Activate': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(505,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(505,9): error C2065: 'ImGuiNavInput_Cancel': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(506,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(506,9): error C2065: 'ImGuiNavInput_Menu': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(507,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(507,9): error C2065: 'ImGuiNavInput_Input': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(508,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(508,9): error C2065: 'ImGuiNavInput_DpadLeft': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(509,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(509,9): error C2065: 'ImGuiNavInput_DpadRight': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(510,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(510,9): error C2065: 'ImGuiNavInput_DpadUp': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(511,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(511,9): error C2065: 'ImGuiNavInput_DpadDown': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(512,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(512,9): error C2065: 'ImGuiNavInput_FocusPrev': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(513,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(513,9): error C2065: 'ImGuiNavInput_FocusNext': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(514,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(514,9): error C2065: 'ImGuiNavInput_TweakSlow': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(515,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(515,9): error C2065: 'ImGuiNavInput_TweakFast': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(516,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(516,9): error C2065: 'ImGuiNavInput_LStickLeft': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(517,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(517,9): error C2065: 'ImGuiNavInput_LStickRight': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(518,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(518,9): error C2065: 'ImGuiNavInput_LStickUp': identificador no declarado
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(519,9): error C2039: "NavInputs": no es un miembro de "ImGuiIO"
+      C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui.h(2240,8):
+      vea la declaración de 'ImGuiIO'
+  
+C:\Users\Hector\source\repos\OpenGL\OpenGL\src\vendor\imgui\imgui_impl_glfw_gl3.cpp(519,9): error C2065: 'ImGuiNavInput_LStickDown': identificador no declarado
